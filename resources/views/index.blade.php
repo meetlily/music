@@ -23,7 +23,7 @@
 <body>
     <div id="app"></div>
 
-    <noscript>It may sound funny, but Meetlily requires JavaScript to sing. Please enable it.</noscript>
+    <noscript>It may sound funny, but Meetlily Music requires JavaScript to sing. Please enable it.</noscript>
     @include('client-js-vars')
     <script src="{{ App::rev('/js/app.js') }}"></script>
 </body>
