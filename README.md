@@ -20,7 +20,6 @@ All contributions, big or small, are warmheartedly welcome! Please note, however
 
 A quick and easy way to start hacking on koel is to open and run this repo in Gitpod, an online IDE with full Laravel support.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/koel/koel)
 
 ## Backers
 
