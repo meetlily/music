@@ -1,0 +1,4 @@
+!.gitignore	
+!manifest.json.example	
+!manifest-remote.json.example	
+!browserconfig.xml
