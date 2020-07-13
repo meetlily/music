@@ -127,10 +127,10 @@ return [
     'force_https' => env('FORCE_HTTPS', false),
 
     'misc' => [
-        'home_url' => 'https://koel.dev',
-        'docs_url' => 'https://docs.koel.dev',
-        'sponsor_github_url' => 'https://github.com/users/phanan/sponsorship',
-        'sponsor_open_collective_url' => 'https://opencollective.com/koel',
+        'home_url' => 'https://music.meetlily.net',
+        'docs_url' => 'https://docs.meetlily.net',
+        'sponsor_github_url' => 'https://github.com/users/edvillan15/sponsorship',
+        'sponsor_open_collective_url' => 'https://opencollective.com/meetlily',
         'demo' => env('KOEL_DEMO', false),
     ],
 
