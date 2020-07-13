@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'base_url' => 'https://api-docs.koel.dev',
+    'base_url' => 'https://api-docs.meetlily.net',
 
     /*
      * The output path for the generated documentation.
