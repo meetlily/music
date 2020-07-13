@@ -1,6 +1,6 @@
 {
-    "name": "Koel Remote Controller",
-    "start_url": "https://your.koel.host/remote",
+    "name": "Meetlily Music Remote Controller",
+    "start_url": "https://your.meetlily.host/remote",
     "display": "standalone",
     "orientation": "portrait",
     "icons": [{
@@ -9,6 +9,6 @@
       "type": "image/png"
     }],
     "background_color": "#181818",
-    "description": "Personal audio streaming service that works.",
+    "description": "Meetlily Music audio streaming service that works.",
     "theme_color": "#181818"
 }
