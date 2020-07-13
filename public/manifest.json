@@ -1,0 +1,14 @@
+{
+    "name": "Meetlily Music",
+    "start_url": "https://music.meetlily.net",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [{
+      "src": "https://apps.meetlily.net/web/image/website/1/favicon?unique=e7ccc5d",
+      "sizes": "127x127",
+      "type": "image/png"
+    }],
+    "background_color": "#181818",
+    "description": "Meetlily Advertising audio streaming service that works.",
+    "theme_color": "#181818"
+}
